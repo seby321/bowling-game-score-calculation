@@ -1,8 +1,8 @@
-This is my attempt on solving the bowling kata.
+This is my attempt at solving the bowling kata.
 
 To run locally:
 
 ```
-npm i
+npm ci
 npm test
 ```
